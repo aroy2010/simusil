@@ -1,5 +1,8 @@
 (() => {
-  const cfg = window.SIMULADOR_CONFIG || {};
+  const cfg = window.SIMULADOR_CONFIG || {
+    minutes: 50,
+    resultsEndpoint: "https://script.google.com/macros/s/AKfycbxxgpPDLh2GscU5I5bqDVFtgyvtoOJdhLNv4f4Nn0ai9L6zl1GL20XHvSjhtEU6SJ5v/exec"
+  };
   const letters = ["A", "B", "C", "D"];
   const questions = [
     ["Matemática","Cantidad","Una tienda ofrece 20 % de descuento sobre una mochila de S/ 150 y luego aplica un descuento adicional de 10 % sobre el precio rebajado. ¿Cuál es el precio final?",["S/ 105","S/ 108","S/ 110","S/ 120"],1],
