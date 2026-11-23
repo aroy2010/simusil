@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Simulador diagnóstico de Matemática y Lenguaje">
+  <title>Simulador diagnóstico · Piero</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div><p class="eyebrow">Preparación universitaria</p><h1>Simulador diagnóstico</h1><p class="subtitle">Matemática y Lenguaje · Piero</p></div>
+      <div class="timer-card" aria-live="polite"><span>Tiempo restante</span><strong id="timer">50:00</strong></div>
+    </header>
+
+    <section id="welcome" class="card welcome">
+      <p class="eyebrow">Evaluación de práctica</p>
+      <h2>Antes de comenzar</h2>
+      <p>Son 24 preguntas de alternativa múltiple: 12 de Matemática y 12 de Lenguaje. Tendrás <strong id="minutes-label">50 minutos</strong>. Puedes avanzar, volver y marcar preguntas para revisarlas. Al terminar el tiempo, la evaluación se enviará automáticamente.</p>
+      <ul>
+        <li>Ten papel y lápiz para tus operaciones.</li>
+        <li>Lee cada enunciado con calma y responde todas las preguntas.</li>
+        <li>No verás respuestas ni correcciones hasta que finalice la evaluación.</li>
+      </ul>
+      <label class="student-field">Nombre del estudiante (opcional)<input id="student-name" maxlength="80" autocomplete="name" placeholder="Piero"></label>
+      <button id="start" class="primary">Comenzar evaluación</button>
+    </section>
+
+    <section id="exam" hidden>
+      <div class="progress-row"><span id="question-label">Pregunta 1 de 24</span><span id="area-label" class="pill"></span><div class="progress"><i id="progress-bar"></i></div></div>
+      <article class="card question-card">
+        <button id="flag" class="flag" aria-pressed="false">Marcar para revisar</button>
+        <h2 id="question-text"></h2>
+        <div id="options" class="options" role="radiogroup"></div>
+      </article>
+      <div class="actions"><button id="previous" class="secondary">Anterior</button><button id="next" class="secondary">Siguiente</button><button id="finish" class="primary">Finalizar y enviar</button></div>
+      <section class="navigator card" aria-label="Navegación de preguntas"><div class="legend"><span><i class="dot answered"></i>Respondida</span><span><i class="dot flagged"></i>Revisar</span><span><i class="dot both"></i>Ambas</span></div><div id="question-nav" class="nav-grid"></div></section>
+    </section>
+
+    <section id="complete" class="card completion" hidden>
+      <p class="eyebrow">Evaluación finalizada</p><h2>Gracias por completar el simulador.</h2>
+      <p id="submission-status">Tu evaluación ha quedado registrada.</p>
+      <p class="muted">El resultado detallado será revisado contigo posteriormente. Ya puedes cerrar esta página.</p>
+    </section>
+  </main>
+  <dialog id="confirm-dialog"><form method="dialog"><h2>¿Finalizar evaluación?</h2><p id="confirm-copy"></p><menu><button value="cancel" class="secondary">Seguir resolviendo</button><button id="confirm-finish" value="confirm" class="primary">Finalizar y enviar</button></menu></form></dialog>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
