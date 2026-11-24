@@ -1,0 +1,42 @@
+window.MISIONES={
+  1:{area:"Matemática",sesion:"Misión 1 · Proporcionalidad, regla de tres y porcentajes",time:"35 minutos",goal:"Reconocer relaciones directas e inversas, y resolver porcentajes con orden.",example:"Si 8 cuadernos cuestan S/ 56, cada uno cuesta S/ 7. Para 12 cuadernos: 12 × 7 = S/ 84.",resources:[['Khan Academy: razones, tasas y proporciones','https://es.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates'],['Khan Academy: porcentajes','https://es.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/a/multi-step-ratio-and-proportion-problems']],questions:[
+    ['Si 6 botellas cuestan S/ 30, 10 botellas cuestan:', ['S/ 45','S/ 50','S/ 60'],'b','Cada botella cuesta S/ 5; 10 × 5 = S/ 50.'],
+    ['Un precio de S/ 240 tiene 25 % de descuento. El precio final es:', ['S/ 180','S/ 190','S/ 215'],'a','El descuento es 60; 240 − 60 = 180.'],
+    ['Si 9 personas terminan un trabajo en 8 días, 12 personas lo terminarían en:', ['5 días','6 días','12 días'],'b','Es relación inversa: 9 × 8 = 72 jornadas; 72 ÷ 12 = 6.'],
+    ['¿Qué porcentaje representa 45 de 180?', ['20 %','25 %','35 %'],'b','45 ÷ 180 = 0,25 = 25 %.'],
+    ['Una receta para 4 personas usa 300 g de arroz. Para 10 personas se necesitan:', ['600 g','750 g','1 200 g'],'b','300 ÷ 4 = 75 g por persona; 75 × 10 = 750 g.'],
+    ['Un artículo aumenta de S/ 150 a S/ 180. El porcentaje de aumento es:', ['15 %','20 %','30 %'],'b','El aumento es 30; 30 ÷ 150 = 20 %.'],
+    ['Una impresora hace 180 páginas en 6 minutos. A igual ritmo, en 10 minutos hace:', ['240','300','360'],'b','180 ÷ 6 = 30 páginas por minuto; 30 × 10 = 300.'],
+    ['Después de descontar 10 % a S/ 500, el precio es:', ['S/ 450','S/ 490','S/ 400'],'a','10 % de 500 es 50; 500 − 50 = 450.']
+  ]},
+  2:{area:"Lenguaje",sesion:"Misión 2 · Vocabulario contextual y tildación",time:"35 minutos",goal:"Deducir significado por el contexto y aplicar la tildación en palabras frecuentes.",example:"En «El informe fue conciso y presentó solo los datos necesarios», conciso significa breve y preciso.",resources:[['RAE: Ortografía y uso de aún/aun','https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf'],['RAE: nota sobre la tilde en «solo»','https://www.rae.es/sites/default/files/2023-03/NdP_RAE_Nota%20informativa%20sobre%20la%20tilde%20en%20%C2%ABsolo%C2%BB.pdf']],questions:[
+    ['En «La explicación fue clara, por eso nadie pidió aclaraciones», clara significa:', ['comprensible','larga','imprecisa'],'a','El efecto descrito indica que todos pudieron comprenderla.'],
+    ['Elige la oración correctamente escrita:', ['El medico explico el tratamiento.','Aún no sabemos si llegará.','El examen fue dificil.'],'b','Aún equivale a todavía; las otras requieren explicó y difícil.'],
+    ['En «El investigador fue riguroso al revisar cada dato», riguroso equivale a:', ['meticuloso','apresurado','indiferente'],'a','Revisar cada dato implica cuidado y precisión.'],
+    ['¿Cuál oración usa correctamente qué/que?', ['No sé que ejercicio elegiste.','¿Qué ejercicio elegiste?','El texto qué leí fue corto.'],'b','Qué se tilda al introducir una pregunta directa.'],
+    ['En «Su respuesta fue prudente porque faltaba información», prudente significa:', ['cauta','confusa','rápida'],'a','Ante información incompleta, una respuesta prudente es cauta.'],
+    ['Elige la alternativa correcta:', ['El análisis fué útil.','Tu resolviste el ejercicio.','Él revisó la solución.'],'c','Fue no lleva tilde; tú sí debe llevarla como pronombre.'],
+    ['En «El argumento era sólido: incluía datos verificables», sólido significa:', ['bien fundamentado','muy largo','contradictorio'],'a','Los datos verificables fundamentan el argumento.'],
+    ['¿En cuál oración aun está bien escrito sin tilde?', ['Aun no termina la clase.','Aun los asistentes llegaron temprano.','Aun falta revisar el texto.'],'b','Aun equivale a incluso; en A y C significa todavía y debe ser aún.']
+  ]},
+  3:{area:"Matemática",sesion:"Misión 3 · Interés simple, patrones y razonamiento lógico",time:"35 minutos",goal:"Aplicar interés simple, identificar reglas de formación y reconocer conclusiones necesarias.",example:"Interés simple: I = C × r × t. Con S/ 1 200 al 5 % por 2 años: I = 1 200 × 0,05 × 2 = S/ 120.",resources:[['Khan Academy: introducción al interés','https://es.khanacademy.org/math/3-secundaria-pe/x6068dc252c2226c6%3Anumeros-3sec/x6068dc252c2226c6%3Ainteres-simple/v/introduction-to-interest'],['Khan Academy: relaciones proporcionales','https://es.khanacademy.org/math/eb-1-secundaria-nme/x7a1e7b325e06a398%3Aproporcionalidad/x7a1e7b325e06a398%3Aconstantes-de-proporcionalidad/v/introduction-proportional-relationships']],questions:[
+    ['El interés simple de S/ 3 000 al 4 % anual durante 2 años es:', ['S/ 120','S/ 240','S/ 360'],'b','3 000 × 0,04 × 2 = 240.'],
+    ['El monto final de S/ 2 000 al 6 % simple por 3 años es:', ['S/ 2 120','S/ 2 360','S/ 2 382'],'b','Interés 360; monto 2 360.'],
+    ['Completa la sucesión: 5, 9, 15, 23, 33, …', ['41','43','45'],'c','Se suma 4, 6, 8, 10; luego se suma 12.'],
+    ['Completa: 81, 27, 9, 3, …', ['1','0','6'],'a','Cada término se divide entre 3.'],
+    ['Todos los polígonos del conjunto tienen lados rectos. Esta figura pertenece al conjunto. Entonces:', ['tiene lados rectos','es un triángulo','tiene cuatro lados'],'a','Es la única conclusión necesaria.'],
+    ['Un capital genera S/ 150 de interés simple al 5 % anual. Si el capital es S/ 1 500, el tiempo es:', ['1 año','2 años','3 años'],'b','150 = 1 500 × 0,05 × t; t = 2.'],
+    ['La regla de 2, 6, 18, 54, … es:', ['sumar 4','multiplicar por 3','duplicar'],'b','Cada término es tres veces el anterior.'],
+    ['Si ningún estudiante dejó preguntas sin responder y Piero es estudiante, se concluye que Piero:', ['no dejó preguntas sin responder','obtuvo puntaje perfecto','terminó primero'],'a','La conclusión sigue necesariamente de la premisa.']
+  ]},
+  4:{area:"Lenguaje",sesion:"Misión 4 · Comprensión literal e inferencial",time:"35 minutos",goal:"Separar información explícita, inferencias razonables e idea principal.",reading:"Durante seis semanas, la biblioteca del distrito abrió una sala de estudio hasta las nueve de la noche. Ofreció mesas, conexión a internet y préstamo de libros. Al cerrar el periodo piloto, aumentó la asistencia de personas que salían tarde de clases o del trabajo. La biblioteca evaluará mantener el horario, aunque primero revisará los costos de personal y mantenimiento.",resources:[['Khan Academy: lectura y escritura','https://es.khanacademy.org/humanities'],['RAE: Diccionario de la lengua española','https://dle.rae.es/']],questions:[
+    ['¿Qué servicios ofreció la sala?', ['Tutorías y alimentos','Mesas, internet y préstamo de libros','Clases obligatorias'],'b','Es información expresada de forma directa.'],
+    ['¿Cuánto duró el periodo piloto?', ['Seis semanas','Nueve semanas','Un año'],'a','El primer enunciado indica la duración.'],
+    ['¿Qué se puede inferir razonablemente?', ['El horario pudo facilitar la asistencia de personas ocupadas durante el día.','Todos los asistentes trabajaban.','La biblioteca ya mantendrá el horario permanentemente.'],'a','Es una inferencia prudente; las otras afirman más de lo que el texto permite.'],
+    ['Antes de mantener el horario, la biblioteca revisará:', ['las notas de los asistentes','costos de personal y mantenimiento','el precio de los libros'],'b','Es un dato explícito del último enunciado.'],
+    ['La idea principal es:', ['Los libros son más importantes que internet.','El horario nocturno tuvo buena recepción y se evalúa continuarlo.','Las clases deben terminar tarde.'],'b','Resume el conjunto de ideas, no un detalle.'],
+    ['La expresión «periodo piloto» indica que la medida:', ['era una prueba temporal','era obligatoria','ya era permanente'],'a','Piloto se refiere a una implementación de prueba.'],
+    ['¿Cuál afirmación está respaldada por el texto?', ['La asistencia aumentó durante el periodo.','El costo ya fue aprobado.','La sala abrió las 24 horas.'],'a','Las otras no se mencionan o se contradicen con el texto.'],
+    ['¿Por qué no es válida la opción «Todos los asistentes trabajaban»?', ['Porque el texto habla de personas que salían de clases o del trabajo, no de todas.','Porque no había asistentes.','Porque la sala no tenía internet.'],'a','La palabra todos convierte una posibilidad en una afirmación absoluta.']
+  ]}
+};
