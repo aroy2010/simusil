@@ -1,52 +1,12 @@
 <!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Simulador diagnóstico de Matemática y Lenguaje">
-  <title>Simulador diagnóstico · Piero</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <main class="shell">
-    <header class="topbar">
-      <div><p class="eyebrow">Preparación universitaria</p><h1>Simulador diagnóstico</h1><p class="subtitle">Matemática y Lenguaje · Piero</p></div>
-      <div class="timer-card" aria-live="polite"><span>Tiempo restante</span><strong id="timer">50:00</strong></div>
-    </header>
-
-    <section id="welcome" class="card welcome">
-      <p class="eyebrow">Evaluación de práctica</p>
-      <h2>Antes de comenzar</h2>
-      <p>Son 24 preguntas de alternativa múltiple: 12 de Matemática y 12 de Lenguaje. Tendrás <strong id="minutes-label">50 minutos</strong>. Puedes avanzar, volver y marcar preguntas para revisarlas. Al terminar el tiempo, la evaluación se enviará automáticamente.</p>
-      <ul>
-        <li>Ten papel y lápiz para tus operaciones.</li>
-        <li>Lee cada enunciado con calma y responde todas las preguntas.</li>
-        <li>No verás respuestas ni correcciones hasta que finalice la evaluación.</li>
-      </ul>
-      <label class="student-field">Nombre del estudiante (opcional)<input id="student-name" maxlength="80" autocomplete="name" placeholder="Piero"></label>
-      <button id="start" class="primary">Comenzar evaluación</button>
-    </section>
-
-    <section id="exam" hidden>
-      <div class="progress-row"><span id="question-label">Pregunta 1 de 24</span><span id="area-label" class="pill"></span><div class="progress"><i id="progress-bar"></i></div></div>
-      <article class="card question-card">
-        <button id="flag" class="flag" aria-pressed="false">Marcar para revisar</button>
-        <h2 id="question-text"></h2>
-        <div id="options" class="options" role="radiogroup"></div>
-      </article>
-      <div class="actions"><button id="previous" class="secondary">Anterior</button><button id="next" class="secondary">Siguiente</button><button id="finish" class="primary">Finalizar y enviar</button></div>
-      <section class="navigator card" aria-label="Navegación de preguntas"><div class="legend"><span><i class="dot answered"></i>Respondida</span><span><i class="dot flagged"></i>Revisar</span><span><i class="dot both"></i>Ambas</span></div><div id="question-nav" class="nav-grid"></div></section>
-    </section>
-
-    <section id="complete" class="card completion" hidden>
-      <p class="eyebrow">Evaluación finalizada</p><h2>Gracias por completar el simulador.</h2>
-      <p id="submission-status">Tu evaluación ha quedado registrada.</p>
-      <p class="muted">El resultado detallado será revisado contigo posteriormente. Ya puedes cerrar esta página.</p>
-      <p><a class="review-link" href="solucionario.html">Abrir solucionario de revisión</a></p>
-    </section>
-  </main>
-  <dialog id="confirm-dialog"><form method="dialog"><h2>¿Finalizar evaluación?</h2><p id="confirm-copy"></p><menu><button value="cancel" class="secondary">Seguir resolviendo</button><button id="confirm-finish" value="confirm" class="primary">Finalizar y enviar</button></menu></form></dialog>
-  <script src="config.js"></script>
-  <script src="app.js"></script>
-</body>
-</html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Ruta de repaso USIL de Piero: sesiones, práctica y progreso."><title>Ruta USIL de Piero</title><link rel="stylesheet" href="ruta.css"></head>
+<body><main class="container">
+<header class="hero"><div><p class="eyebrow">Preparación universitaria · 4 días</p><h1>Ruta USIL de Piero</h1><p class="lead">Un recorrido corto y concreto para llegar al sábado con seguridad: estudiar, practicar, revisar y avanzar.</p></div><section class="progress-card" aria-label="Progreso semanal"><span>Progreso de la ruta</span><strong id="progress-label">0 de 16 sesiones</strong><div class="progress"><i id="progress-bar"></i></div><p id="badge-message">Primer paso: completa una sesión.</p></section></header>
+<section class="card today-card"><div><p class="eyebrow">Tu método</p><h2>Cuatro misiones al día</h2><p>Cada misión dura entre 30 y 40 minutos. Completa dos por la mañana y dos por la tarde; el reto final es opcional.</p></div><ol><li>Lee o revisa el ejemplo.</li><li>Resuelve sin ayuda.</li><li>Corrige y explica el procedimiento.</li></ol></section>
+<nav class="quick-links" aria-label="Materiales disponibles"><a href="simulador.html"><span>Diagnóstico</span><strong>Simulador</strong></a><a href="solucionario.html"><span>Revisión</span><strong>Solucionario</strong></a><a href="#ruta"><span>Plan</span><strong>Mis sesiones</strong></a></nav>
+<section id="ruta" class="route" aria-label="Ruta de estudio de cuatro días">
+<article class="day-card" data-day="martes"><header><p>Día 1</p><h2>Martes · Bases y lectura</h2><span class="day-status">Por iniciar</span></header><div class="missions"><label><input type="checkbox" data-session="m1"><span><b>1. Cantidad</b> Proporcionalidad, regla de tres y porcentajes.</span><em>35 min</em></label><label><input type="checkbox" data-session="m2"><span><b>2. Lenguaje formal</b> Vocabulario contextual y tildación.</span><em>30 min</em></label><label><input type="checkbox" data-session="m3"><span><b>3. Aplicación numérica</b> Interés simple, patrones y razonamiento lógico.</span><em>35 min</em></label><label><input type="checkbox" data-session="m4"><span><b>4. Comprensión</b> Lectura literal e inferencial.</span><em>35 min</em></label></div><footer>Reto opcional: 10 preguntas mixtas · 12 min</footer></article>
+<article class="day-card" data-day="miercoles"><header><p>Día 2</p><h2>Miércoles · Álgebra y escritura</h2><span class="day-status">Por iniciar</span></header><div class="missions"><label><input type="checkbox" data-session="m5"><span><b>5. Expresiones</b> Productos notables, polinomios y factorización.</span><em>40 min</em></label><label><input type="checkbox" data-session="m6"><span><b>6. Escritura formal</b> Puntuación, concordancia y verbos.</span><em>35 min</em></label><label><input type="checkbox" data-session="m7"><span><b>7. Resolver</b> Ecuaciones, sistemas e inecuaciones.</span><em>40 min</em></label><label><input type="checkbox" data-session="m8"><span><b>8. Construir textos</b> Coherencia, conectores y organización.</span><em>35 min</em></label></div><footer>Reto opcional: caso aplicado y bitácora de errores · 15 min</footer></article>
+<article class="day-card" data-day="jueves"><header><p>Día 3</p><h2>Jueves · Espacio y argumentos</h2><span class="day-status">Por iniciar</span></header><div class="missions"><label><input type="checkbox" data-session="m9"><span><b>9. Figuras planas</b> Triángulos, semejanza, perímetros y áreas.</span><em>40 min</em></label><label><input type="checkbox" data-session="m10"><span><b>10. Lectura crítica</b> Comparar textos, posturas y evidencias.</span><em>35 min</em></label><label><input type="checkbox" data-session="m11"><span><b>11. Cuerpos geométricos</b> Volúmenes y problemas espaciales.</span><em>35 min</em></label><label><input type="checkbox" data-session="m12"><span><b>12. Argumentar</b> Tesis, razones y evidencia pertinente.</span><em>30 min</em></label></div><footer>Reto opcional: desafío cronometrado · 12 min</footer></article>
+<article class="day-card" data-day="viernes"><header><p>Día 4</p><h2>Viernes · Datos, integración y estrategia</h2><span class="day-status">Por iniciar</span></header><div class="missions"><label><input type="checkbox" data-session="m13"><span><b>13. Datos y azar</b> Variables, población, muestra, gráficos y medidas.</span><em>40 min</em></label><label><input type="checkbox" data-session="m14"><span><b>14. Lectura integrada</b> Literal, inferencial y crítica.</span><em>35 min</em></label><label><input type="checkbox" data-session="m15"><span><b>15. Matemática mixta</b> Repaso dirigido de Álgebra y Geometría.</span><em>35 min</em></label><label><input type="checkbox" data-session="m16"><span><b>16. Lenguaje mixto</b> Repaso dirigido y estrategia de examen.</span><em>35 min</em></label></div><footer>Reto opcional: mini simulacro final · 25 min</footer></article>
+</section><section class="card strategy"><p class="eyebrow">Sábado</p><h2>Antes del examen</h2><p>No habrá contenido nuevo. Solo revisa estrategias: leer con atención, pasar temporalmente una pregunta difícil y responder todas las preguntas porque no hay penalización por error.</p></section></main><script src="ruta.js"></script></body></html>
