@@ -19,7 +19,7 @@ Object.assign(window.MISIONES, {
 ["«El informe fue conciso: reunió lo esencial en pocas líneas». Conciso significa:",["breve y preciso","largo y repetitivo","poco claro"],"a","La explicación posterior ofrece la pista."],
 ["«Revisó meticulosamente cada dato». Meticulosamente significa:",["con mucho cuidado","sin atención","con prisa"],"a","Revisar cada dato indica atención al detalle."],
 ["«Aunque parecía sólido, el argumento carecía de pruebas». ¿Qué señala aunque?",["Contraste","Consecuencia","Ejemplo"],"a","Contrapone apariencia y ausencia de pruebas."],
-["Elige la oración correcta.",["No sé qué ocurrió.","No sé que ocurrió.","No sé qué ocurrió́? porque sí"],"a","Qué introduce una pregunta indirecta."],
+["Elige la oración correcta.",["No sé qué ocurrió.","No sé que ocurrió.","Sé qué el examen terminó."],"a","Qué introduce una pregunta indirecta; el que de la tercera oración no lleva tilde."],
 ["Elige la forma correcta para «___ falta revisar».",["Aún","Aun","Áun"],"a","Equivale a todavía."],
 ["Elige la forma correcta para «___ los expertos se equivocan».",["Aun","Aún","Áun"],"a","Equivale a incluso."],
 ["Completa: «___ revisaste ___ respuesta».",["Tú / tu","Tu / tú","Tú / tú"],"a","Pronombre tú; posesivo tu."],
@@ -36,7 +36,7 @@ Object.assign(window.MISIONES, {
 ["Resuelve 2(x+3)=18.",["6","9","12"],"a","x+3=9, luego x=6."],
 ["Resuelve 5x+4=2x+19.",["5","3","7"],"a","3x=15."],
 ["Resuelve x/3+2=6.",["12","4","18"],"a","x/3=4."],
-["El doble de un número aumentado en 5 es 21. ¿Cuál es?",["8","13","16"],"a","2x+5=21."],
+["Al doble de un número se le suma 5 y se obtiene 21. ¿Cuál es el número?",["8","13","16"],"a","2x+5=21."],
 ["Un cuaderno cuesta x soles. Tres cuestan 24 soles. ¿Cuánto cuesta uno?",["8","21","72"],"a","3x=24."],
 ["Si x+y=10 y x−y=2, ¿cuánto vale x?",["6","4","8"],"a","Al sumar: 2x=12."],
 ["Resuelve 3x−1<11.",["x<4","x>4","x<10"],"a","3x<12; divide entre 3."]
@@ -44,7 +44,7 @@ Object.assign(window.MISIONES, {
 8:{area:"Lenguaje",sesion:"Misión 8 · Escritura y comprensión",time:"35 minutos",goal:"Organiza ideas, reconoce conectores y evalúa conclusiones.",reading:"Un texto coherente mantiene una idea central y organiza ideas relacionadas. «Porque» introduce una causa; «por lo tanto», una consecuencia; «sin embargo», un contraste. El sujeto y el verbo deben concordar: «los estudiantes revisan». Una conclusión es necesaria si debe ser verdadera siempre que las premisas lo sean; una posibilidad no basta.",resources:[["RAE: diccionario","https://dle.rae.es/"]],questions:[
 ["Según la lectura, «sin embargo» expresa:",["contraste","causa","ejemplo"],"a","Contrapone ideas."],
 ["Una conclusión necesaria debe:",["ser verdadera si las premisas lo son","ser solo posible","ser la más larga"],"a","Debe seguir necesariamente de las premisas."],
-["Elige la oración con concordancia correcta.",["Los estudiantes revisan sus respuestas.","Los estudiantes revisa sus respuestas.","Los estudiantes revisamos sus respuestas."],"a","El sujeto plural concuerda con revisan."],
+["Elige la oración con concordancia correcta.",["Los estudiantes revisan sus respuestas.","Los estudiantes revisa sus respuestas.","Los estudiantes revisará sus respuestas."],"a","El sujeto plural concuerda con revisan."],
 ["«Estudió con constancia; ___, mejoró».",["por lo tanto","sin embargo","aunque"],"a","La segunda idea expresa consecuencia."],
 ["«Quería salir; ___, empezó a llover».",["sin embargo","por lo tanto","porque"],"a","Se contraponen las ideas."],
 ["«Revisó el cálculo ___ encontró un error».",["porque","aunque","por lo tanto"],"a","Se expresa el motivo de la revisión."],
