@@ -12,7 +12,7 @@ En un triángulo rectángulo, si los catetos miden a y b y la hipotenusa c, se c
 6. Los ángulos de un triángulo están en razón 2:3:4. Halla el mayor.
 7. Un cuadrado tiene diagonal 10√2 cm. Halla su área.
 8. Un círculo tiene radio 4 cm. Expresa su área en función de π.
-9. Una maqueta está a escala 1:100. Una pared mide 4,5 cm en la maqueta. ¿Cuánto mide en la realidad?
+9. Una maqueta está a escala 1:100. Una pared mide 4,5 cm en la maqueta. ¿Cuántos metros mide en la realidad?
 10. Si los lados de un triángulo se duplican, ¿por cuánto se multiplica su área?
 11. Un triángulo tiene área 48 cm² y base 12 cm. Halla su altura.
 12. Un terreno rectangular mide 20 m por 15 m. Se construye dentro un camino que ocupa 45 m². ¿Qué área queda libre?
