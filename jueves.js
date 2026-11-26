@@ -7,7 +7,7 @@
   let started=Date.now(), sent=false;
   const el = s => document.querySelector(s);
   const esc = s => String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-  fetch("jueves-borrador.md").then(r=>{if(!r.ok)throw Error();return r.text()}).then(text=>{
+  fetch("jueves-contenido.txt").then(r=>{if(!r.ok)throw Error();return r.text()}).then(text=>{
     const chunks=text.split(/^## /m).slice(1), section=chunks[id===17?4:id-9];
     const [prompt,solution]=section.split(/^### (?:Claves|Criterios).*$/m);
     const first=prompt.search(/^1\. /m);
