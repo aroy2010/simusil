@@ -1,0 +1,127 @@
+# Ruta USIL: jueves
+
+## Misión 9. Geometría plana
+
+En un triángulo rectángulo, si los catetos miden a y b y la hipotenusa c, se cumple a² + b² = c². La semejanza conserva los ángulos y multiplica todas las longitudes por una misma razón k; las áreas se multiplican por k². El área de un triángulo es base × altura ÷ 2.
+
+1. Un triángulo rectángulo tiene catetos de 9 cm y 12 cm. Calcula su hipotenusa.
+2. Un triángulo tiene base de 14 cm y altura de 9 cm. Calcula su área.
+3. Dos figuras semejantes tienen razón de lados 3:5. Si el área de la menor es 27 cm², calcula el área de la mayor.
+4. Un rectángulo tiene perímetro 38 cm y su largo supera al ancho en 3 cm. Halla sus dimensiones.
+5. Una escalera de 10 m se apoya en una pared. Su pie está a 6 m de ella. ¿A qué altura llega?
+6. Los ángulos de un triángulo están en razón 2:3:4. Halla el mayor.
+7. Un cuadrado tiene diagonal 10√2 cm. Halla su área.
+8. Un círculo tiene radio 4 cm. Expresa su área en función de π.
+9. Una maqueta está a escala 1:100. Una pared mide 4,5 cm en la maqueta. ¿Cuánto mide en la realidad?
+10. Si los lados de un triángulo se duplican, ¿por cuánto se multiplica su área?
+11. Un triángulo tiene área 48 cm² y base 12 cm. Halla su altura.
+12. Un terreno rectangular mide 20 m por 15 m. Se construye dentro un camino que ocupa 45 m². ¿Qué área queda libre?
+
+### Claves para revisión posterior
+
+1. 15 cm. 2. 63 cm². 3. 75 cm²: 27 × (5/3)². 4. 11 cm y 8 cm. 5. 8 m. 6. 80°. 7. 100 cm². 8. 16π cm². 9. 4,5 m. 10. Por 4. 11. 8 cm. 12. 255 m².
+
+## Misión 10. Lectura crítica y evidencia
+
+Lee: «Una biblioteca amplió su horario nocturno durante ocho semanas. La asistencia semanal subió de 120 a 180 visitas. En una encuesta voluntaria, 36 de las 40 personas que respondieron dijeron que el horario les resultaba útil. La biblioteca aún no ha medido el efecto en los hábitos de lectura de toda la población del distrito».
+
+Una afirmación debe distinguirse de la evidencia que la respalda. Una encuesta voluntaria recoge opiniones de quienes decidieron responder; no demuestra por sí sola lo que piensa toda la población. Una inferencia es una conclusión razonable a partir de datos, pero no debe añadir certezas que el texto no ofrece.
+
+1. ¿Cuál fue el aumento absoluto de visitas semanales?
+2. ¿Qué porcentaje de aumento representa pasar de 120 a 180 visitas?
+3. ¿Qué dato respalda directamente la afirmación de que la asistencia subió?
+4. ¿Cuántas personas de la encuesta dijeron que el horario era útil?
+5. ¿Qué porcentaje de quienes respondieron lo consideró útil? Escribe solo el número.
+6. ¿Se puede afirmar que el 90 % de toda la población del distrito lo considera útil? Explica.
+7. Completa: una encuesta __________ puede tener sesgo porque responde quien decide participar.
+8. Identifica la evidencia que muestra el límite de lo que se sabe sobre hábitos de lectura.
+9. Un titular dice: «El nuevo horario mejoró los hábitos de lectura de todo el distrito». ¿Está respaldado? ¿Por qué?
+10. Ordena estos pasos: formular una conclusión; examinar las fuentes; identificar los datos.
+11. Propón una información adicional que ayudaría a evaluar si el horario debe continuar.
+12. Redacta una conclusión prudente que incluya un resultado y una limitación.
+
+### Claves para revisión posterior
+
+1. 60 visitas. 2. 50 %. 3. Pasó de 120 a 180 visitas semanales. 4. 36. 5. 36/40 = 90 %. 6. No; solo representa a quienes respondieron voluntariamente. 7. Voluntaria. 8. No se ha medido el efecto en los hábitos de lectura de toda la población. 9. No; el texto indica que ese efecto aún no se ha medido. 10. Identificar los datos, examinar las fuentes y formular una conclusión. 11. Por ejemplo, costos, uso por horarios o una encuesta representativa. 12. Debe señalar que aumentaron las visitas y que no se ha medido el efecto en toda la población.
+
+## Misión 11. Geometría espacial
+
+El volumen de un prisma es área de la base × altura. El de un cilindro es πr²h. El volumen de una pirámide o cono es un tercio del volumen del prisma o cilindro con igual base y altura. Convierte las unidades antes de operar: 1 litro = 1 000 cm³.
+
+1. Calcula el volumen de una caja de 8 cm × 5 cm × 12 cm.
+2. Un prisma tiene base de 18 cm² y altura 7 cm. ¿Cuál es su volumen?
+3. Un cilindro tiene radio 3 cm y altura 10 cm. Expresa su volumen en función de π.
+4. Un cono tiene la misma base y altura que el cilindro anterior. ¿Cuál es su volumen?
+5. Un cubo de arista 4 cm se amplía al doble en cada dimensión. ¿Por cuánto se multiplica su volumen?
+6. Una caja mide 30 cm × 20 cm × 10 cm. ¿Cuántos litros caben en ella?
+7. Una pirámide de base 36 cm² tiene altura 9 cm. Calcula el volumen.
+8. Un tanque cilíndrico duplica su radio y conserva su altura. ¿Por cuánto se multiplica su capacidad?
+9. Halla el área total de un cubo de arista 5 cm.
+10. Un prisma rectangular tiene volumen 240 cm³; su base mide 6 cm por 5 cm. Halla la altura.
+11. Ordena de menor a mayor volumen: A = 450 cm³; B = 0,5 L; C = 0,4 L.
+12. Una caja de 10 × 8 × 6 cm está llena hasta la mitad. ¿Qué volumen queda vacío?
+
+### Claves para revisión posterior
+
+1. 480 cm³. 2. 126 cm³. 3. 90π cm³. 4. 30π cm³. 5. Por 8. 6. 6 L. 7. 108 cm³. 8. Por 4. 9. 150 cm². 10. 8 cm. 11. C, A, B. 12. 240 cm³.
+
+## Misión 12. Argumentación
+
+Una tesis es la posición que se defiende; las razones explican por qué se sostiene y la evidencia ofrece apoyo comprobable. Un contraargumento plantea una objeción; responderlo requiere relacionarse con esa objeción. Generalizar desde pocos casos o confundir coincidencia con causa debilita un argumento.
+
+Caso: «La escuela propone ampliar el horario de biblioteca. Durante una prueba de ocho semanas las visitas semanales aumentaron de 120 a 180. Una objeción es que el horario adicional cuesta más; la dirección aún no ha publicado esos costos».
+
+1. Identifica una tesis posible a favor de ampliar el horario.
+2. Identifica la evidencia numérica disponible.
+3. ¿El aumento de visitas demuestra por sí solo que mejoraron las calificaciones? Explica.
+4. Identifica la objeción planteada.
+5. ¿Qué información falta para valorar esa objeción?
+6. Ordena: evidencia, tesis, razón, en un argumento que presente primero la posición y luego su apoyo.
+7. ¿Cuál es más sólida: «dos amigos lo usan, por tanto todos lo usan» o «las visitas semanales aumentaron de 120 a 180»? Explica.
+8. Completa: una __________ expresa la posición principal de un argumento.
+9. Propón una pregunta que permita evaluar los costos.
+10. ¿Por qué una opinión de una sola persona no demuestra que todos estén de acuerdo?
+11. Formula un contraargumento razonable a favor de esperar antes de decidir.
+12. Escribe una conclusión prudente usando una evidencia y reconociendo una limitación.
+
+### Criterios de revisión posterior
+
+1. Por ejemplo: «Conviene ampliar el horario». 2. Las visitas pasaron de 120 a 180 por semana. 3. No; no se midieron calificaciones ni se estableció una relación causal. 4. El costo adicional. 5. Los costos y recursos disponibles. 6. Tesis, razón, evidencia. 7. La segunda, como evidencia del aumento de visitas; no demuestra por sí sola la opinión de todos. 8. Tesis. 9. Por ejemplo: ¿cuánto cuesta el personal adicional por semana? 10. Una persona no representa necesariamente al conjunto. 11. Debe relacionarse con el caso y distinguir los datos de lo que aún no se sabe. 12. Debe incluir una evidencia y reconocer una limitación.
+
+## Reto integrador: 16 preguntas
+
+Trabaja sin mirar las claves. Dedica 4 preguntas a cada tema de hoy.
+
+### Geometría plana
+
+1. Un rectángulo tiene diagonal 13 cm y uno de sus lados mide 5 cm. Halla su perímetro.
+2. Dos triángulos semejantes tienen lados correspondientes de 4 cm y 10 cm. Si el área del primero es 24 cm², halla la del segundo.
+3. Una parcela triangular tiene base 18 m y área 108 m². ¿Cuál es su altura?
+4. Un cuadrado y un rectángulo tienen perímetro 40 cm. El rectángulo mide 12 cm de largo. ¿Cuál tiene mayor área y por cuánto?
+
+### Lectura crítica
+
+Texto: «Un centro comunitario ofreció dos horarios de estudio durante un mes. Asistieron 90 personas en la mañana y 110 en la tarde. En una encuesta voluntaria a 25 asistentes, 20 prefirieron la tarde. El centro aún no ha analizado cuántas personas asistieron a ambos horarios».
+
+5. ¿Qué evidencia muestra que hubo más asistencias por la tarde?
+6. ¿Puede concluirse que asistieron 200 personas distintas? Explica.
+7. ¿Qué porcentaje de quienes contestaron prefirió la tarde?
+8. Un informe afirma que el 80 % de todos los asistentes prefiere la tarde. ¿Qué limitación debería reconocer?
+
+### Geometría espacial
+
+9. Un cilindro de radio 2 cm y altura 12 cm tiene el mismo volumen que otro de radio 4 cm. Halla la altura del segundo.
+10. Un cubo de 6 cm de arista se llena hasta un tercio. ¿Cuántos cm³ faltan para llenarlo?
+11. Una pirámide y un prisma tienen iguales base y altura. Si el prisma contiene 270 cm³, ¿cuál es el volumen de la pirámide?
+12. Relaciona cada capacidad con su equivalente: A) 1,5 L; B) 0,75 L; C) 2 L. Opciones: 750 cm³, 2 000 cm³, 1 500 cm³.
+
+### Argumentación
+
+13. Una persona afirma: «Dos alumnos prefieren estudiar de noche; por tanto, todos los alumnos prefieren estudiar de noche». Identifica el problema.
+14. Ordena para construir un argumento: A) dato que respalda; B) posición; C) razón.
+15. Para decidir si ampliar un servicio, ¿qué evidencia ayudaría más: el costo semanal documentado o el color de la puerta? Explica.
+16. Redacta una tesis sobre el horario de estudio del centro y acompáñala de una evidencia del texto y una limitación.
+
+### Claves y criterios de revisión posterior
+
+1. 34 cm: el otro lado es 12 cm. 2. 150 cm²: 24 × (10/4)². 3. 12 m. 4. El cuadrado, 100 cm² frente a 96 cm²; diferencia 4 cm². 5. 110 asistencias frente a 90. 6. No; una persona pudo asistir a ambos horarios. 7. 80 %. 8. La encuesta fue voluntaria y solo respondieron 25 asistentes. 9. 3 cm: π·2²·12 = π·4²·h. 10. 144 cm³. 11. 90 cm³. 12. A–1 500; B–750; C–2 000. 13. Generaliza a todos a partir de dos casos. 14. B, C, A. 15. El costo, porque afecta directamente la viabilidad de la ampliación. 16. Debe distinguir la tesis del dato 90/110 y reconocer la posible duplicación o la limitación de la encuesta.
